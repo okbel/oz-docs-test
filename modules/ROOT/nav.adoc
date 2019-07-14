@@ -1,0 +1,6 @@
+.Welcome!
+* xref:introduction:intro.adoc[Why DOCS?]
+* xref:introduction:intro.adoc[How DOCS?]
+* xref:introduction:intro.adoc[Should I DOCS?]
+* xref:introduction:intro.adoc[Again... DOCS?]
+

@@ -1,0 +1,6 @@
+name: test
+version: '6.0'
+title: Test Server
+start_page: introduction:intro.adoc
+nav:
+- modules/ROOT/nav.adoc
